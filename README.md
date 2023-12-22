@@ -10,6 +10,10 @@ Welcome to the Suicide Rate Analysis repository, where we explore and analyze su
 Understanding and addressing mental health challenges is a critical societal concern. High suicide rates are indicative of deep-seated issues, and there is a pressing need to identify patterns and contributing factors to inform mental health policies and interventions.
 Analyzing suicide rates globally from 1985 to 2016 allows us to uncover trends, identify vulnerable demographics, and explore potential correlations with socioeconomic factors. By shedding light on these patterns, we can inform evidence-based strategies to mitigate the impact of mental health issues on individuals and communities.
 
+### Python Data Wrangling
+
+The data wrangling process is documented in the `Suicide_Analysis.py` Python script. This file includes code for cleaning and preprocessing the raw dataset, extracting relevant features, and creating different CSV files for focused analysis. It plays a crucial role in ensuring the integrity and accuracy of the data used in subsequent visualizations.
+
 ### Flourish Charts
 
 The repository includes interactive and informative charts created using Flourish.
