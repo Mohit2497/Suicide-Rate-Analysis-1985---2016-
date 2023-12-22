@@ -12,7 +12,7 @@ Analyzing suicide rates globally from 1985 to 2016 allows us to uncover trends, 
 
 ### Python Data Wrangling
 
-The data wrangling process is documented in the `Suicide_Analysis.py` Python script. This file includes code for cleaning and preprocessing the raw dataset, extracting relevant features, and creating different CSV files for focused analysis. It plays a crucial role in ensuring the integrity and accuracy of the data used in subsequent visualizations.
+The data wrangling process is documented in the `Suicide_Analysis.ipynb` Python script. This file includes code for cleaning and preprocessing the raw dataset, extracting relevant features, and creating different CSV files for focused analysis. It plays a crucial role in ensuring the integrity and accuracy of the data used in subsequent visualizations.
 
 ### Flourish Charts
 
